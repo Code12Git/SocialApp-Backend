@@ -29,7 +29,7 @@ This is a social media application built using the MERN stack (MongoDB, Express.
 To get started with the social media app, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Code12Git/social-media-app.git
+   git clone https://github.com/Code12Git/SocialApp-Backend.git
 
 2. Install dependencies:
    cd social-media-app
